@@ -11,3 +11,6 @@
 
 ### NLP
 1. **[Natural Language Processing (NLP) Zero to Hero](https://youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&si=Trf5r7B1zBx0hYXR)**
+
+### Neural Network
+1. **[Layers in a Neural Network explained](https://www.youtube.com/watch?v=FK77zZxaBoI)**
